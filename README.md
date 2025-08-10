@@ -28,3 +28,5 @@ Sou Farmacêutica Clínica com +10 anos de experiência hospitalar, apaixonada p
 ---
 
 ✨ Obrigada por visitar meu perfil!
+
+![<<!nav>>GitHub Readme Stats<<!/nav>>](https://readme-stats.vercel.app/api/github?username=MyCaroll&show_icons=true&theme=radical)
